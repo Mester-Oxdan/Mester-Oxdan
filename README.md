@@ -1,9 +1,12 @@
-## Mester Oxdan
+## Mester-Oxdan
 
-![3dgifmaker75465-ascii(1)(1)(1)](https://github.com/user-attachments/assets/5e900315-0ff3-44bc-b452-e9ece9b1f686)
+## █ TECH KRIEGFORGE
+
+<b>Languages</b>
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 <!--
-**Mester-Oxdan/Mester-Oxdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
