@@ -1,7 +1,6 @@
 ## Mester Oxdan
 
-![3dgifmaker75465-ascii(1)_2](https://github.com/user-attachments/assets/02d20ab9-c49e-4a33-963e-eec88d9eab14)
-
+![3dgifmaker75465-ascii(1)(1)(1)](https://github.com/user-attachments/assets/5e900315-0ff3-44bc-b452-e9ece9b1f686)
 
 <!--
 **Mester-Oxdan/Mester-Oxdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
