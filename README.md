@@ -1,5 +1,7 @@
 ## Mester-Oxdan
 
+
+
 ## █ TECH KRIEGFORGE
 
 <b>Languages</b>
@@ -23,7 +25,74 @@
 
 ## Russian Way In
 
+яндекс навигатор - родился
+лунтик фраза - помогатор 
+фексос дем демич папа у меня хто? - фиксик 
+пиноккио пила пилить - дерево
+вегибатор помогатор хто я? - угощение
+хочешь покажу - детей
 
+**русский алфавит числа цезарь
+**фиолетовая мелочь
+**A1Z26 33-18-15...
+**говорю слепому 
+**Base64 на развороте
+
+<pre>```import hashlib
+import base64
+
+cipher_map = [chr(i) for i in range(ord('а'), ord('я')+1)]
+cipher_map.insert(6, 'ё')
+
+def rotate_cipher(text, rotation=33):
+    result = ""
+    for char in text:
+        if char in cipher_map:
+            idx = (cipher_map.index(char) + rotation) % len(cipher_map)
+            result += cipher_map[idx]
+        else:
+            result += char
+    return result
+
+encoded_strings = [
+    "VkNoTjN4SDM=",
+    "RU5HM0Y1U0g=",
+    "SDR4Tm5WQ1I=",
+    "dGhpc2lzbm90aXQ="
+]
+
+for encoded in encoded_strings:
+    try:
+        decoded = base64.b64decode(encoded).decode('utf-8', errors='ignore')
+        rotated = rotate_cipher(decoded, 17)
+        hashed = hashlib.md5(rotated.encode()).hexdigest()
+        
+        if hashed.startswith('a3f'):
+            print(f"Possible key: {hashed[:8]}")
+        else:
+            print(f"Invalid: {hashed[:8]}")
+    except:
+        print(f"Failed: {encoded}")
+
+numbers = [17, 16, 14, 16, 4, 1, 20, 16, 18, 5, 6, 18, 6, 3, 16]
+total = sum(numbers)
+
+if total % 2 == 0:
+    print("Even sum detected - wrong path")
+else:
+    print("Odd sum - continue")
+
+def convert_to_invite(val):
+    alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+    result = ""
+    while val > 0:
+        result += alphabet[val % 36]
+        val //= 36
+    return result[::-1]
+
+invite_code = convert_to_invite(total)
+print(f"Generated code: {invite_code}")
+print(f"discord.gg/{invite_code}")```</pre>
 
 ## The Way In
 
