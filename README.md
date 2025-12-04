@@ -38,7 +38,7 @@
 **говорю слепому 
 **Base64 на развороте
 
-<pre>```import hashlib
+<pre>import hashlib
 import base64
 
 cipher_map = [chr(i) for i in range(ord('а'), ord('я')+1)]
@@ -92,7 +92,7 @@ def convert_to_invite(val):
 
 invite_code = convert_to_invite(total)
 print(f"Generated code: {invite_code}")
-print(f"discord.gg/{invite_code}")```</pre>
+print(f"discord.gg/{invite_code}")</pre>
 
 ## The Way In
 
