@@ -2,7 +2,9 @@
 
 ![0-02-01-a94ee8ab057bdf4fc9b23318c4ad519ce68b26cd501f6dca9d17f0620c2c4efd_58af9c1dd8c22ce1(2)](https://github.com/user-attachments/assets/ab3ce053-5d07-4dec-8aa4-74334a835be3)
 
-## █ TECH KRIEGFORGE
+
+
+## █ TECH KRIEGFORGE 🔥
 
 <h3><b>Languages</b></h3>
 
@@ -27,7 +29,7 @@
 
 -----
 
-## Russian Way In
+## Russian Way In 
 
 яндекс навигатор - я родился
 
@@ -125,6 +127,12 @@ print(f"discord.gg/{invite_code}")</pre>
 <h3><b>Stay Determined ❤️</b></h3>
 
 ![0-02-01-fb4c3a580da3470e4bb00ac6c49efd3bfb0332bdf4b5fd16172b93faa0d1fe2a_8c593b132236b025](https://github.com/user-attachments/assets/61d5a12a-b4cb-4098-87ed-ba22c894654d)
+
+-----
+
+<p align="center"><em>You’re filled with determination.</em></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mester-Oxdan&color=grey&style=flat)
 
 <!--
 
