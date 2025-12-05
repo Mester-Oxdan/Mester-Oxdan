@@ -1,8 +1,8 @@
 ## Mester-Oxdan
 
 <p align="center">
-    <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://github.com/user-attachments/assets/ab3ce053-5d07-4dec-8aa4-74334a835be3)" alt="funny gif" />
-    ![0-02-01-a94ee8ab057bdf4fc9b23318c4ad519ce68b26cd501f6dca9d17f0620c2c4efd_58af9c1dd8c22ce1(2)](https://github.com/user-attachments/assets/ab3ce053-5d07-4dec-8aa4-74334a835be3)</p>
+  <img src="https://github.com/user-attachments/assets/ab3ce053-5d07-4dec-8aa4-74334a835be3" alt="centered image" />
+</p>
 
 
 
