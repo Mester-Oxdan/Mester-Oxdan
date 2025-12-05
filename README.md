@@ -33,8 +33,8 @@
 
 ## █ Analytics/Stats
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Mester-Oxdan&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mester-Oxdan)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Mester-Oxdan&show_icons=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mester-Oxdan&cache_seconds=86400)
 
 
 ## Russian Way In 
