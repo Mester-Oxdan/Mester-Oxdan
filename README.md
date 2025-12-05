@@ -117,6 +117,7 @@ print(f"discord.gg/{invite_code}")</pre>
 ----
 
 <h3><b>Stay Determined ❤️</b></h3>
+
 ![0-02-01-fb4c3a580da3470e4bb00ac6c49efd3bfb0332bdf4b5fd16172b93faa0d1fe2a_8c593b132236b025](https://github.com/user-attachments/assets/61d5a12a-b4cb-4098-87ed-ba22c894654d)
 
 <!--
