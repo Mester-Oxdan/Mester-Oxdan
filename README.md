@@ -33,13 +33,9 @@
 
 ## █ Analytics/Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=dark&hide_border=true&hide=html,css" />
-</a>
 
+
+-----
 
 ## Russian Way In 
 
