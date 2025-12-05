@@ -4,7 +4,7 @@
 
 ## █ TECH KRIEGFORGE
 
-<b>Languages</b>
+<h3><b>Languages</b></h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -14,7 +14,9 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<b>Tools</b>
+-----
+
+<h3><b>Tools</b></h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -22,6 +24,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+-----
 
 ## Russian Way In
 
@@ -111,10 +115,12 @@ invite_code = convert_to_invite(total)
 print(f"Generated code: {invite_code}")
 print(f"discord.gg/{invite_code}")</pre>
 
+-----
+
 ## The Way In
 
 
-----
+-----
 
 <h3><b>Stay Determined ❤️</b></h3>
 
