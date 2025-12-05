@@ -1,18 +1,6 @@
 ## Mester-Oxdan
 
-<strong>
-    
-  ___                     _                       
-    
-  / _ \     __  __      __| |      __ _      _ __  
-    
- | | | |    \ \/ /     / _` |     / _` |    | '_ \ 
-    
- | |_| |     >  <     | (_| |    | (_| |    | | | |
-     
-  \___/     /_/\_\     \__,_|     \__,_|    |_| |_|
-     
-</strong>
+![Adobe Express - 0-02-01-a94ee8ab057bdf4fc9b23318c4ad519ce68b26cd501f6dca9d17f0620c2c4efd_58af9c1dd8c22ce1](https://github.com/user-attachments/assets/3b4243bd-59bc-4d1f-ba4c-1f7adbc8a5c8)
 
 ## █ TECH KRIEGFORGE
 
