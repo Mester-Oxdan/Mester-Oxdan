@@ -134,7 +134,9 @@ print(f"discord.gg/{invite_code}")</pre>
 
 <p align="center"><em>You’re filled with determination.</em></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mester-Oxdan&color=grey&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mester-Oxdan&color=grey&style=flat" alt="Profile Views" />
+</p>
 
 <!--
 
