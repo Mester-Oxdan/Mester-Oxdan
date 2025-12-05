@@ -129,6 +129,13 @@ print(f"discord.gg/{invite_code}")</pre>
 
 ## The Way In
 
+Our desire is a bait, who follows get in the trap - underground
+
+The way out only 1, takes determination to follow the track - barrier
+
+Skeleton say before eat, Bone appétit! His name is - lazy sh*t
+
+The story ends here, true king give hopes for relief
 
 -----
 
