@@ -31,6 +31,12 @@
 
 -----
 
+## █ Analytics/Stats
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Mester-Oxdan&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mester-Oxdan)
+
+
 ## Russian Way In 
 
 яндекс навигатор - я родился
