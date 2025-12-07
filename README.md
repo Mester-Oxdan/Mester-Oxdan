@@ -43,7 +43,7 @@
 </div>
 
 <div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Mester-Oxdan&theme=gruvbox_light&background=000000&fire=ff0000&currStreakLabel=ff0000&currStreakNum=ff0000&sideNums=ffffff&stroke=ff0000&border=550000" width="100%" /> 
+  <img src="https://streak-stats.demolab.com?user=Mester-Oxdan&theme=highcontrast&background=000000&fire=ff0000&currStreakLabel=ff0000&currStreakNum=ff0000&sideNums=ffffff&stroke=ff0000&border=550000" width="100%" /> 
 </div>
 
 -----
