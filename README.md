@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/ab3ce053-5d07-4dec-8aa4-74334a835be3" alt="centered image" />
 </p>
 
-<p align="center"><em>Mistakes are the light that reveals the world, and only those who dare to endure can grasp the shape of what lies ahead.</em></p>
+<p align="center"><em>Mistakes are the light that reveals the world, and only those who dare to endure can understand the shape of their true path.</em></p>
 
 ## █ TECH KRIEGFORGE 🔥
 
