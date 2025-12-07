@@ -1,8 +1,10 @@
 ## Mester-Oxdan
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ab3ce053-5d07-4dec-8aa4-74334a835be3" alt="centered image" />
-</p>
+<div align="center">
+  <a href="https://www.youtube.com/@Oxdan_Praduction">
+    <img src="https://github.com/user-attachments/assets/ab3ce053-5d07-4dec-8aa4-74334a835be3" alt="Centered Image" />
+  </a>
+</div>
 
 <p align="center"><em>Mistakes are the light that reveals the world, and only those who dare to endure can understand the shape of their true path.</em></p>
 
