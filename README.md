@@ -42,8 +42,17 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&bg_color=000000&color=ff4444&line=ff0000&point=ff4444&area=550000&hide_border=true" />
 </div>
 
-<div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Mester-Oxdan&background=000000&fire=ff0000&currStreakLabel=ff0000&currStreakNum=ff0000&sideNums=ffffff&stroke=ff0000&border=550000" width="100%" /> 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mester-Oxdan
+  &background=000000
+  &fire=ff0000
+  &currStreakLabel=ff0000
+  &currStreakNum=ff0000
+  &sideNums=ffffff
+  &sideLabels=ffffff
+  &stroke=ff0000
+  &ring=ff0000
+  &border=550000" width="100%" />
 </div>
 
 -----
