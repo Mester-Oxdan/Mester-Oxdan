@@ -35,13 +35,13 @@
 
 <div align="center"> 
   <img src="https://github-readme-stats-umber-seven-26.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=default&count_private=true&bg_color=000000&text_color=ff4444&icon_color=ff0000&title_color=ff0000&border_color=550000" /> 
-  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=tokyonight&count_private=true" /> 
+  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=default&count_private=true&bg_color=000000&text_color=ff4444&icon_color=ff0000&title_color=ff0000&border_color=550000" /> 
 </div> 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&&theme=redical) 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&&theme=default&bg_color=000000&text_color=ff4444&icon_color=ff0000&title_color=ff0000&border_color=550000) 
 
 <div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Mester-Oxdan&theme=redical" width="100%" /> 
+  <img src="https://streak-stats.demolab.com?user=Mester-Oxdan&theme=default&bg_color=000000&text_color=ff4444&icon_color=ff0000&title_color=ff0000&border_color=550000" width="100%" /> 
 </div>
 
 -----
