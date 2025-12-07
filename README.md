@@ -35,11 +35,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=tokyonight)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mester-Oxdan)](https://github.com/Mester-Oxdan/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mester-Oxdan&theme=tokyonight)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mester-Oxdan&theme=tokyonight)
 
 -----
 
