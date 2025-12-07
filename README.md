@@ -33,11 +33,9 @@
 
 ## █ Analytics/Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=tokyonight)
+![Top Langs](https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=tokyonight&count_private=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&theme=tokyonight)
 
