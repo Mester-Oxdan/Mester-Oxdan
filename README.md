@@ -34,11 +34,13 @@
 ## █ Analytics/Stats
 
 <div align="center"> 
-  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=default&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ff0000&title_color=ff4444&border_color=550000" /> 
-  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=default&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ff0000&title_color=ff4444&border_color=550000" /> 
+  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=default&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ff0000&title_color=ff0000&border_color=550000" /> 
+  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=default&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ff0000&title_color=ff0000&border_color=550000" /> 
 </div> 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&&theme=default&bg_color=000000&text_color=ff4444&icon_color=ff0000&title_color=ff0000&border_color=550000) 
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&bg_color=000000&color=ff4444&line=ff0000&point=ff4444&area=550000&hide_border=true" />
+</div>
 
 <div align="center"> 
   <img src="https://streak-stats.demolab.com?user=Mester-Oxdan&theme=default&bg_color=000000&text_color=ff4444&icon_color=ff0000&title_color=ff0000&border_color=550000" width="100%" /> 
