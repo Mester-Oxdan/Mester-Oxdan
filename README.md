@@ -169,7 +169,8 @@ The story ends, king is here, with determination leads to justice and peace - la
 
 **Caesar is the lord the one who conquer Europe
 
-<pre>import base64
+```python
+import base64
 import hashlib
 
 def vortex_cipher(text, cycles=3):
@@ -217,7 +218,8 @@ for v in values:
     product *= v if v != 0 else 1
 
 final_code = base64.b64encode(str(product % 100000).encode()).decode()
-print(f"discord.gg/{final_code}")</pre>
+print(f"discord.gg/{final_code}")
+```
 
 -----
 
