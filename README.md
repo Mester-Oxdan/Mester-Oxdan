@@ -129,13 +129,78 @@ print(f"discord.gg/{invite_code}")</pre>
 
 ## The Way In
 
-Our desire is a bait, who follows get in the trap - underground
+Our desire is a bait, who follows get in the trap - barrier
 
-The way out only 1, takes determination to follow the track - barrier
+The way out only 1, takes determination to follow the track - underground
 
-Skeleton say before eat, Bone appétit! His name is - lazy sh*t
+Skeleton say before eat, Bone appétit! His name is - Papa Dreemurr
 
-The story ends here, true king give hopes for relief
+Water falls, quiet is here your investigations lead to justice feast - Fish
+
+The story ends, king is here, with determination leads to justice and peace - lazy sh*t
+
+
+**Order matters key in the trust
+
+**ASCII is the art, make it number 1
+
+**first and last always subtracts
+
+**Modulo 26: ? % 26 = ???
+
+**Ronaldo is the goat, lives at base 64th
+
+**Caesar is the lord the one who conquer Europe
+
+<pre>import base64
+import hashlib
+
+def vortex_cipher(text, cycles=3):
+    result = text
+    for _ in range(cycles):
+        rotated = ""
+        for i, char in enumerate(result):
+            if char.isalpha():
+                base = ord('A') if char.isupper() else ord('a')
+                shift = i % 5 + 7
+                rotated += chr((ord(char) - base + shift) % 26 + base)
+            else:
+                rotated += char
+        result = rotated[::-1]
+    return result
+
+encoded_strings = [
+    "T2JmM3Y0djR3",
+    "UXpEa2F3TzNw",
+    "V1dKc2JtRnV",
+    "Ykc5allXeG9",
+    "ZEdsbWRtRms=",
+    "bUZ3YVd4c1lY",
+    "anJFZzVmVm0=",
+    "eW1Gc2JtRjB",
+    "aHR0cHM6Ly95b3V0dS5iZS9kUXc0dzlXZ1hjUQ=="
+]
+
+for encoded in encoded_strings:
+    try:
+        decoded = base64.b64decode(encoded).decode('utf-8', errors='ignore')
+        transformed = vortex_cipher(decoded, 2)
+        hashed = hashlib.sha256(transformed.encode()).hexdigest()[:8]
+        
+        if hashed == "a1b2c3d4":
+            print(f"Found: {transformed}")
+        else:
+            print(f"Hash {hashed}")
+    except:
+        print(f"Failed on {encoded}")
+
+values = [117, 98, 108, 70, 80]
+product = 1
+for v in values:
+    product *= v if v != 0 else 1
+
+final_code = base64.b64encode(str(product % 100000).encode()).decode()
+print(f"discord.gg/{final_code}")</pre>
 
 -----
 
