@@ -33,21 +33,15 @@
 
 ## █ Analytics/Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-umber-seven-26.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=redical&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-umber-seven-26.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=redical&count_private=true" />
-</div>
+<div align="center"> 
+  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=tokyonight&count_private=true" /> 
+  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=tokyonight&count_private=true" /> 
+</div> 
 
-<br/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&&theme=redical) 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&theme=redical" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mester-Oxdan&theme=redical" width="100%" />
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com?user=Mester-Oxdan&theme=redical" width="100%" /> 
 </div>
 
 -----
