@@ -41,7 +41,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&theme=tokyonight)
 
 <div align="center">
-  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Mester-Oxdan&theme=tokyonight" width="100%" />
 </div>
 
 -----
