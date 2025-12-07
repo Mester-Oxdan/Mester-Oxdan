@@ -6,6 +6,8 @@
 
 <p align="center"><em>Mistakes are the light that reveals the world, and only those who dare to endure can understand the shape of their true path.</em></p>
 
+-----
+
 ## █ TECH KRIEGFORGE 🔥
 
 <h3><b>Languages</b></h3>
