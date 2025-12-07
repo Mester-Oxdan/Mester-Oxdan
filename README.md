@@ -34,8 +34,8 @@
 ## █ Analytics/Stats
 
 <div align="center"> 
-  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=default&count_private=true&bg_color=000000&text_color=ff4444&icon_color=ff0000&title_color=ff0000&border_color=550000" /> 
-  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=default&count_private=true&bg_color=000000&text_color=ff4444&icon_color=ff0000&title_color=ff0000&border_color=550000" /> 
+  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=default&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ff0000&title_color=ff4444&border_color=550000" /> 
+  <img src="https://github-readme-stats-umber-seven-26.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=default&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ff0000&title_color=ff4444&border_color=550000" /> 
 </div> 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&&theme=default&bg_color=000000&text_color=ff4444&icon_color=ff0000&title_color=ff0000&border_color=550000) 
