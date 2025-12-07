@@ -33,9 +33,9 @@
 
 ## █ Analytics/Stats
 
-![GitHub Stats](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats-umber-seven-26.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats-umber-seven-26.vercel.app/api/top-langs/?username=Mester-Oxdan&layout=compact&theme=tokyonight&count_private=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&theme=tokyonight)
 
