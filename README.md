@@ -47,9 +47,9 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mester-Oxdan&bg_color=000000&color=ff4444&line=ff0000&point=ff4444&area=550000&hide_border=true" />
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000" width="100%" />
-</div>
+</div>-->
 
 -----
 
