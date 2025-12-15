@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mester-Oxdan&theme=dark&background=000000&fire=ff0000&ring=ff0000&stroke=ff0000" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mester-Oxdan&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000" width="100%" />
 </div>
 
 -----
