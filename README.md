@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<p align="center"><em>Mistakes are the light that reveals the world, and only those who dare to endure can understand the shape of their true path.</em></p>
+<p align="center"><em>Mistakes are the light that reveals dark world, only those who dare to fix, can understand their shape for long.</em></p>
 
 -----
 
